@@ -9,6 +9,8 @@ repo_url: https://github.com/fdd-1125
 
 nav:
   - index.md
+  - ​Research Daily​:
+    -
   - TODO:
       - TODO_List/TODO_List@February.md
 
