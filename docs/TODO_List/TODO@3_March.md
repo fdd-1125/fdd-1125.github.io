@@ -1,0 +1,2 @@
+- Update my Personal Website, [ref](https://lisha-chen.github.io/www/awards.html)
+- Try to add more web search features for [LeetTools](https://github.com/leettools-dev/leettools)
